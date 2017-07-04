@@ -1,1 +1,8 @@
-Optimal
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#f5f6f6" />
+    <corners android:radius="2dp" />
+    <stroke
+        android:width="3dp"
+        android:color="#b2bfc7" />
+</shape>
